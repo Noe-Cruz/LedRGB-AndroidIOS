@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "815040789809",
+    "firebase_url": "https://control-led-a343c-default-rtdb.firebaseio.com",
+    "project_id": "control-led-a343c",
+    "storage_bucket": "control-led-a343c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815040789809:android:cfb73d42b83f9a62c48410",
+        "android_client_info": {
+          "package_name": "com.example.appcontrolled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QSGRyC97gHBezGPSML0bIb1OnohrnCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815040789809:android:2dd7c7315b9cfe6bc48410",
+        "android_client_info": {
+          "package_name": "com.example.testambient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QSGRyC97gHBezGPSML0bIb1OnohrnCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
